@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Creating Users Through Powershell</h1>
+<h1>Creating Users With Powershell</h1>
 This tutorial outlines the implementation and deployment of on-premises Active Directory with regards to creating users within Azure Virtual Machines.<br />
 
 
